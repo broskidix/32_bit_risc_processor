@@ -98,6 +98,8 @@ In this processor there is 3 types of instructions are designed.
 # Instruction format-
 ![](https://github.com/broskidix/32_bit_risc_processor/blob/main/Screenshot%202024-09-02%20at%2015.56.01.png)
 
+![](https://github.com/broskidix/32_bit_risc_processor/blob/main/Screenshot%202024-09-02%20at%2015.55.45.png)
+
 
 
 # processor control design -
