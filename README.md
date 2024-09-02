@@ -104,4 +104,5 @@ In this processor there is 3 types of instructions are designed.
 
 
 # ALU control design -
+![](https://github.com/broskidix/32_bit_risc_processor/blob/main/Screenshot%202024-09-02%20at%2015.54.56.png)
 
